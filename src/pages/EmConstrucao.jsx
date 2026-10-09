@@ -17,7 +17,7 @@ function EmConstrucao() {
           </div>
 
           <span className="status">
-            Site em construção
+            Site em manutenção
           </span>
         </header>
 
@@ -31,35 +31,49 @@ function EmConstrucao() {
             </p>
 
             <h1>
-              Uma nova
-              <br />
-
-              experiência
-
+              Site em
               <span>
-                está sendo bordada.
+                manutenção.
               </span>
             </h1>
 
             <p className="descricao">
-              Estamos preparando um novo espaço para apresentar nossa história,
-              nossos serviços e tudo o que fazemos no universo do bordado.
+              Estamos preparando nosso novo site para apresentar
+              nossos serviços, nossa história e tudo o que fazemos
+              no universo do bordado.
             </p>
+
+            <div className="atendimento">
+              <p className="atendimento-titulo">
+                No momento, atendendo pelo WhatsApp:
+              </p>
+
+              <a
+                href="https://wa.me/5543999940369"
+                target="_blank"
+                rel="noreferrer"
+                className="telefone"
+              >
+                (43) 99994-0369
+              </a>
+            </div>
 
             <div className="acoes">
 
               <a
-                href="#"
+                href="https://wa.me/5543999940369?text=Olá%2C%20vim%20pelo%20site%20da%20Bordados%20%26%20Cia."
+                target="_blank"
+                rel="noreferrer"
                 className="botao botao-principal"
               >
-                Fale conosco
+                Chamar no WhatsApp
               </a>
 
               <a
-                href="#"
+                href="tel:+5543999940369"
                 className="botao botao-secundario"
               >
-                Instagram
+                Ligar agora
               </a>
 
             </div>
@@ -88,9 +102,9 @@ function EmConstrucao() {
             </div>
 
             <p className="texto-visual">
-              Tradição, experiência
+              Uma nova experiência
               <br />
-              e atenção aos detalhes.
+              está sendo bordada.
             </p>
 
           </div>
@@ -113,7 +127,7 @@ function EmConstrucao() {
         <footer className="rodape">
 
           <p>
-            Bordados & Cia
+            Bordados & Cia • Londrina - PR
           </p>
 
           <p>
